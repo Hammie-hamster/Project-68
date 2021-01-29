@@ -30,13 +30,38 @@ body {
 }
 
 .Campus {
-    width : 100%
+    width: 100%
 }
 
 #Width {
-    width : 55%
+    width: 45%
 }
 
 #Navigation {
-    color : aliceblue;
+    color: aliceblue;
+}
+
+.menu {
+    cursor: pointer;
+    top: 10px;
+    right: 10px;
+    list-style: none;
+    position: fixed;
+    display: inline;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.Julia_Drake {
+    width: 250%;
+}
+
+.Raymond_Cavallo {
+    width: 250%;
 }
